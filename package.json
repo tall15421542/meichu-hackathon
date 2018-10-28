@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@data-ui/xy-chart": "0.0.69",
+    "@vx/group": "0.0.170",
+    "@vx/legend": "0.0.179",
+    "@vx/mock-data": "0.0.179",
+    "@vx/scale": "0.0.179",
+    "@vx/shape": "0.0.179",
+    "fast-csv": "^2.4.1",
     "react": "^16.6.0",
+    "react-circle": "^1.1.1",
+    "react-csv-reader": "^1.1.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "socket-client": "^1.0.0",
+    "socket.io-client": "^2.1.1",
+    "typeface-roboto": "0.0.54"
   },
   "scripts": {
     "start": "react-scripts start",
